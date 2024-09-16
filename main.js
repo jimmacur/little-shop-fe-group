@@ -242,6 +242,7 @@ function filterByMerchant(merchantId) {
   return specificMerchantItems
 }
 
+
 filterByMerchant(1);
 
 function findMerchant(id) {
