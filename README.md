@@ -1,4 +1,4 @@
-# Little Shop | Group Project | Frontend Starter Repo
+# Little Shop | Group Project | Frontend
 
 ## 🌀 Abstract
 This Little Shop FE Boilerplate is built to consume and display the data from the BE Rails API built in the Mod 2 Group Project. In this group project our team worked on building an E-Commerce application using service-oriented architecture, where the back and front ends are separate and communicate via APIs. Built with javascript, html and CSS, this front end component brings functionality to the project.
